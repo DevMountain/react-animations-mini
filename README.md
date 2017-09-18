@@ -17,3 +17,5 @@ This project is an introduction into animations using the `react-motion` library
     * Review the code and make sure that you understand what is going on before adding any animations.
 
 3. Run `npm i --save react-motion` to install the animation library.
+
+4. Follow along: https://scrimba.com/casts/cdNzpuk
